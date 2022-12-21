@@ -1,0 +1,14 @@
+;ticker;name;industry;sector;marketCap
+0;ACWF;Large-Cap Growth;ETF;sector;1
+1;CSD;Spin-offs;ETF;sector;1
+2;EEMV;Large-Cap Growth;ETF;sector;1
+3;EFAV;Large-Cap Growth;ETF;sector;1
+4;FQAL;;ETF;sector;1
+5;FVAL;;ETF;sector;1
+6;GURU;Hedge Funds;ETF;sector;1
+7;IJH;Mid-Cap Core;ETF;sector;1
+8;IJJ;Mid-Cap Value;ETF;sector;1
+9;IJK;Mid-Cap Growth;ETF;sector;1
+10;IJR;Small-Cap;ETF;sector;1
+11;INTF;Large-Cap Growth;ETF;sector;1
+12;IPO;IPOs;ETF;sector;1
